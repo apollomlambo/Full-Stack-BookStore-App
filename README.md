@@ -1,5 +1,5 @@
 # Full-Stack-BookStore-App
-"I have designed and developed a professional-grade Java project for efficient library management while learning Java Backend. This system provides users with the ability to store comprehensive details about books and their authors, enabling quick and easy search functionality within the library. The project was developed as part of my continuous learning process, with the primary aim of enhancing my Java programming skills while building a robust application that meets industry standards."
+"I have designed and developed a professional-grade Java project for efficient library management while learning Java Backend. This system provides users with the ability to store comprehensive details about books and their authors, enabling quick and easy search functionality within the library.The project was developed as part of my continuous learning process, with the primary aim of enhancing my Java programming skills while building a robust application that meets industry standards."
 
 ## Project Overview :
 - *Create Java Project for Bookstore App*
